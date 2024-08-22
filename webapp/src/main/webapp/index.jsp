@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at VedaIT</h1>
+    <h1>New user Register for DevOps Learning for dvp 59-73 at VedaIT</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -20,7 +20,7 @@
     <br>
     <br>
 
-    <label for="psw"><b>Your Password Here</b></label>
+    <label for="psw"><b>Enter your Password Here</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
